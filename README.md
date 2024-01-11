@@ -138,3 +138,28 @@ $ go run . --mirror -R=jpg,gif https://example.com
 example:
 
 $ go run . --mirror -X=/assets,/css https://example.com
+
+
+Installation
+To install wget-rust, follow the steps below:
+
+Clone the repository:
+
+sh
+Copy code
+git clone https://github.com/your-username/wget-rust.git
+Navigate to the project directory:
+
+sh
+Copy code
+cd wget-rust
+Build the project:
+
+sh
+Copy code
+cargo build --release
+Run the executable:
+
+sh
+Copy code
+./target/release/wget-rust --help
