@@ -1,4 +1,7 @@
 # wget-rust
+
+![image](https://images.ctfassets.net/aoyx73g9h2pg/7z9SIh6Z6kTyYWKqIlg4VG/56519fa840f130b4ee79d109ecfef9d7/Wget-Linux-Diagram.jpg)
+
 Program made using rust to work the functionality of wget
 This project objective consists on recreating some functionalities of wget using a compiled language of your choice (like C, Rust, Go or other).
 
