@@ -167,8 +167,8 @@ sh
 Copy code
 ./target/release/wget-rust --help
 
-# Contributers
-mfaris (Mohammed Faris)
-sahmedG (Sameer Ahmed)
-MSK17A (Mohammad AlSammak)
-akhaled01 (AbdulRahamn Khalid)
+## Contributers
+- mfaris (Mohammed Faris)
+- [sahmedG](https://github.com/sahmedG) (Sameer Goumaa)
+- [MSK17A](https://github.com/MSK17A) (Mohammed Alsammak)
+- [akhaled01](https://github.com/akhaled01) (AbdulRahamn Khalid)
