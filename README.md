@@ -166,3 +166,9 @@ Run the executable:
 sh
 Copy code
 ./target/release/wget-rust --help
+
+# Contributers
+mfaris (Mohammed Faris)
+sahmedG (Sameer Ahmed)
+MSK17A (Mohammad AlSammak)
+akhaled01 (AbdulRahamn Khalid)
